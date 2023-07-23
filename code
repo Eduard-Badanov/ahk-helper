@@ -3401,17 +3401,14 @@ return
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Продам а/м "Bentley Flying Spur". Цена:{Space}
 return
-
 :?:рс6ц8авант::
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Куплю а/м "Audi RS6 C8 Avant". Бюджет:{Space}
 return
-
 :?:рс6ц8авант1::
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Продам а/м "Audi RS6 C8 Avant". Цена:{Space}
 return
-
 :?:rs6c8avant::
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Куплю а/м "Audi RS6 C8 Avant". Бюджет:{Space}
