@@ -1,3 +1,11 @@
+#SingleInstance force
+If 1 =
+{
+    Run, *RunAs %A_ScriptFullPath% 1
+    ExitApp
+}
+
+MsgBox, Hello, Administrator!
 ;===Code 1.0===
 ;===========================================Graphical User Interface===============================================
 
