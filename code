@@ -1,5 +1,5 @@
 #Include, %temp%\Settings\samp-udf.ahk
-;===========================================Graphical User Interface===============================================
+;===========================================Graphical User Interface==============================================
 SetWorkingDir %A_ScriptDir%
 SetBatchLines -1
 IniRead, name, %temp%/Settings/info.egl, USER, name
