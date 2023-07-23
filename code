@@ -1,4 +1,4 @@
-FileEncoding("UTF-8")
+A_FileEncoding("UTF-8")
 #SingleInstance Force
 #NoEnv
 SetWorkingDir %A_ScriptDir%
