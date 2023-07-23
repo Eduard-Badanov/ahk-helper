@@ -1,4 +1,4 @@
-#Include, samp-udf.ahk
+#Include, %temp%\Settings\samp-udf.ahk
 ;===========================================Graphical User Interface===============================================
 
 SetWorkingDir %A_ScriptDir%
