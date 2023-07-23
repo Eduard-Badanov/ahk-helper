@@ -1,3 +1,4 @@
+#Include, samp-udf.ahk
 ;===========================================Graphical User Interface===============================================
 
 SetWorkingDir %A_ScriptDir%
