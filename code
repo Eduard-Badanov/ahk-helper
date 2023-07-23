@@ -40,7 +40,6 @@ IniWrite, %teg%, %temp%/Settings/info.egl, USER, teg
 IniWrite, %org%, %temp%/Settings/info.egl, USER, org
 IniWrite, %num%, %temp%/Settings/info.egl, USER, num
 MsgBox, 0, Сохранено, Введённые вами данные сохранены.
-Reload
 return
 
 Exit:
