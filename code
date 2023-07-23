@@ -22,7 +22,7 @@ Gui 2: Add, Edit, cWhite x500 y240 w70 h25 vteg, %teg%
 Gui 2: Add, Edit, cWhite x500 y270 w45 h25 vorg, %org%
 Gui 2: Add, Edit, cWhite x500 y300 w86 h25 vnum, %num%
 Gui 2: Show, w770 h380, ТРК Helper
-return
+Return
 
 GuiEscape2:
 ExitApp
