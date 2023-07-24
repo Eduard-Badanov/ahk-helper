@@ -2221,6 +2221,16 @@ SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Продам а/м "Mercedes W223 AMG". Цена:{Space}
 return
 
+:?:в223::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "Mercedes W223". Бюджет:{Space}
+return
+
+:?:в2231::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Продам а/м "Mercedes W223". Цена:{Space}
+return
+
 :?:w223amg::
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Куплю а/м "Mercedes W223 AMG". Бюджет:{Space}
