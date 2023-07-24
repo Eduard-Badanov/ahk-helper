@@ -3418,6 +3418,26 @@ SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Продам а/м "Audi RS6 C8 Avant". Цена:{Space}
 return
 
+:?:бентликонтинентальгт::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "Bentley Continental GT". Бюджет:{Space}
+return
+
+:?:бентликонтинентальгт1::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Продам а/м "Bentley Continental GT". Цена:{Space}
+return
+
+:?:bentleycontinentalgt::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "Bentley Continental GT". Бюджет:{Space}
+return
+
+:?:bentleycontinentalgt1::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Продам а/м "Bentley Continental GT". Цена:{Space}
+return
+
 :?:даф105::
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Куплю г/а "DAF XF 105". Бюджет:{Space}
