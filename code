@@ -6779,11 +6779,11 @@ Sendinput,ТРК «Ритм» || Продам а/м "Mercedes W124 Coupe AMG". �
 return
 :?:в124купэ::
 SendMessage, 0x50,, 0x4190419,, A
-Sendinput,ТРК «Ритм» || Продам а/м "Mercedes W124 Coupe AMG". Бюджет:{Space}
+Sendinput,ТРК «Ритм» || Куплю а/м "Mercedes W124 Coupe AMG". Бюджет:{Space}
 return
 :?:в124купэ1::
 SendMessage, 0x50,, 0x4190419,, A
-Sendinput,ТРК «Ритм» || Куплю а/м "Mercedes W124 Coupe AMG". Цена:{Space}
+Sendinput,ТРК «Ритм» || Продам а/м "Mercedes W124 Coupe AMG". Цена:{Space}
 return
 :?:turbor::
 SendMessage, 0x50,, 0x4190419,, A
