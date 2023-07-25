@@ -64,7 +64,7 @@ SendMessage, 0x50,, 0x4190419,, A
 SendInput,/r [%teg%] Разрешите выехать из здания ТРК для установки биллборда.{Space}
 Return
 
-^F3::
+F9::
 SendMessage, 0x50,, 0x4190419,, A
 sleep, 100
 Sendinput, {F6}/c 060{Enter}
