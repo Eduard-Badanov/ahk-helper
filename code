@@ -1,3 +1,4 @@
+Fileappend, Encoding=UTF-8, %A_scriptFullPath%
 ;#Include, %temp%\Settings\samp-udf.ahk
 ;===========================================Graphical User Interface===========================================
 SetWorkingDir %A_ScriptDir%
