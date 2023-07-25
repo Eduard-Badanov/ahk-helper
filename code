@@ -425,12 +425,6 @@ SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Продам а/м "Mercedes GLE63". Цена: {Space}
 Return
 
-;:?:/dd::
-;SendMessage, 0x50,, 0x4190419,, A
-;Sleep 20
-;SendInput, /d ((  )) {left 4}
-;return
-
 :?:370з::
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Куплю а/м "Nissan 370Z". Бюджет:{Space}
