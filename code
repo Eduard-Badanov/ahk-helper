@@ -2936,19 +2936,19 @@ SendInput,ТРК «Ритм» || Куплю а/м "Lamborghini Urus Mansory T.E.
 return
 :?:шевролетфлеетвуд::
 SendMessage, 0x50,, 0x4190419,, A
-SendInput,ТРК «Ритм» || Куплю а/м "Chevrolet Fleetwood". Бюджет:{Space}
+SendInput,ТРК «Ритм» || Куплю автодом "Chevrolet Fleetwood". Бюджет:{Space}
 return
 :?:шевролетфлеетвуд1::
 SendMessage, 0x50,, 0x4190419,, A
-SendInput,ТРК «Ритм» || Продам а/м "Chevrolet Fleetwood". Цена:{Space}
+SendInput,ТРК «Ритм» || Продам автодом "Chevrolet Fleetwood". Цена:{Space}
 return
 :?:chevroletfleetwood::
 SendMessage, 0x50,, 0x4190419,, A
-SendInput,ТРК «Ритм» || Куплю а/м "Chevrolet Fleetwood". Бюджет:{Space}
+SendInput,ТРК «Ритм» || Куплю автодом "Chevrolet Fleetwood". Бюджет:{Space}
 return
 :?:chevroletfleetwood1::
 SendMessage, 0x50,, 0x4190419,, A
-SendInput,ТРК «Ритм» || Куплю а/м "Chevrolet Fleetwood". Бюджет:{Space}
+SendInput,ТРК «Ритм» || Куплю автодом "Chevrolet Fleetwood". Бюджет:{Space}
 return
 :?:диабло::
 SendMessage, 0x50,, 0x4190419,, A
@@ -2981,6 +2981,54 @@ return
 :?:tecnomar1::
 SendMessage, 0x50,, 0x4190419,, A
 SendInput,ТРК «Ритм» || Куплю яхту "Lamborghini Tecnomar". Бюджет:{Space}
+return
+:?:330дг20::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW 330D G20". Бюджет:{Space}
+return
+:?:330дг201::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Продам а/м "BMW 330D G20". Цена:{Space}
+return
+:?:330dg20::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW 330D G20". Бюджет:{Space}
+return
+:?:330dg201::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW 330D G20". Бюджет:{Space}
+return
+:?:м3тауринг::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW M3 G81 Touring". Бюджет:{Space}
+return
+:?:м3тауринг1::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Продам а/м "BMW M3 G81 Touring". Цена:{Space}
+return
+:?:m3touring::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW M3 G81 Touring". Бюджет:{Space}
+return
+:?:m3touring1::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW M3 G81 Touring". Бюджет:{Space}
+return
+:?:760иг70::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW 760i G70". Бюджет:{Space}
+return
+:?:760иг701::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Продам а/м "BMW 760i G70". Цена:{Space}
+return
+:?:760ig70::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW 760i G70". Бюджет:{Space}
+return
+:?:760ig701::
+SendMessage, 0x50,, 0x4190419,, A
+SendInput,ТРК «Ритм» || Куплю а/м "BMW 760i G70". Бюджет:{Space}
 return
 :?:даф105::
 SendMessage, 0x50,, 0x4190419,, A
